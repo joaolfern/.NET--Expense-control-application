@@ -14,7 +14,7 @@ namespace PDesp_Projeto
         private int idmembro;
         private string nomemembro;
         private string papelmembro;
-
+        int a;
         public int Idmembro
         {
             get
